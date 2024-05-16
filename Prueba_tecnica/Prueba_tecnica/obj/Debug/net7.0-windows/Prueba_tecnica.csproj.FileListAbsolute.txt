@@ -1,0 +1,16 @@
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\obj\Debug\net7.0-windows\Prueba_tecnica.Form1.resources
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\obj\Debug\net7.0-windows\Prueba_tecnica.csproj.GenerateResource.cache
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\obj\Debug\net7.0-windows\Prueba_tecnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\obj\Debug\net7.0-windows\Prueba_tecnica.AssemblyInfoInputs.cache
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\obj\Debug\net7.0-windows\Prueba_tecnica.AssemblyInfo.cs
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\obj\Debug\net7.0-windows\Prueba_tecnica.csproj.CoreCompileInputs.cache
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\bin\Debug\net7.0-windows\Prueba_tecnica.exe
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\bin\Debug\net7.0-windows\Prueba_tecnica.deps.json
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\bin\Debug\net7.0-windows\Prueba_tecnica.runtimeconfig.json
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\bin\Debug\net7.0-windows\Prueba_tecnica.dll
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\bin\Debug\net7.0-windows\Prueba_tecnica.pdb
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\obj\Debug\net7.0-windows\Prueba_tecnica.dll
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\obj\Debug\net7.0-windows\refint\Prueba_tecnica.dll
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\obj\Debug\net7.0-windows\Prueba_tecnica.pdb
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\obj\Debug\net7.0-windows\Prueba_tecnica.genruntimeconfig.cache
+C:\Users\ragno\source\repos\Prueba_tecnica\Prueba_tecnica\obj\Debug\net7.0-windows\ref\Prueba_tecnica.dll
